@@ -22,4 +22,4 @@
 
     echo $phoneKeyboardConverter->convertToString('7,444,33,7777');
 
-
+    echo '<script src="script.js"></script>';
