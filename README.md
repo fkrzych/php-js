@@ -1,5 +1,5 @@
 # php-js
 
-1.PhoneKeyboardConverter.php - PHP class for first task
-2.welcomeUser.js - JavaScript function for second task
-3.index.php - file for testing results
+- PhoneKeyboardConverter.php - PHP class for first task
+- welcomeUser.js - JavaScript function for second task
+- index.php - file for testing results
